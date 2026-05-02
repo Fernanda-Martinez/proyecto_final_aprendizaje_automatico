@@ -2,12 +2,9 @@ Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning capa
 
 La iniciativa surge como respuesta a la necesidad de detectar tempranamente casos de depresión, permitiendo intervenciones oportunas antes de que el problema afecte significativamente el rendimiento académico y la calidad de vida.
 
-# Contexto
+# Predicción de Depresión Estudiantil con Machine Learning
 
-La depresión es uno de los trastornos mentales más comunes a nivel mundial, afectando a más de 280 millones de personas. En estudiantes universitarios, la prevalencia es considerablemente mayor, con tasas de:
-
-35.4% depresión moderada
-13.4% depresión severa
+La depresión afecta a más de 280 millones de personas en el mundo (OMS, 2024). En el entorno universitario, estudios recientes reportan una prevalencia de depresión moderada del 35.4% y severa del 13.4%, cifras muy superiores a la población general. La detección tardía, el estigma social y la falta de herramientas escalables hacen que menos del 50% de quienes cumplen criterios diagnósticos reciban tratamiento.
 
 Factores como:
 
@@ -25,3 +22,8 @@ Desarrollar un modelo que permita:
 Identificar estudiantes en riesgo de depresión
 Detectar patrones en variables académicas y personales
 Apoyar la toma de decisiones en salud mental
+
+# Dataset
+Fuente: Student Depression Dataset — Kaggle
+Dataset de encuesta estructurada con datos de estudiantes de India.
+kaggle.com/datasets/hopesb/student-depression-dataset 
